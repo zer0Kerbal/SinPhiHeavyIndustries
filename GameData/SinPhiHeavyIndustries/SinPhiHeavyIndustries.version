@@ -1,0 +1,49 @@
+{
+    "NAME"           : "Sin Phi Heavy Industries (SPHI)",
+    "URL"            : "https://raw.githubusercontent.com/zer0Kerbal/SinPhiHeavyIndustries/master/SinPhiHeavyIndustries.version",
+    "DOWNLOAD"       : "https : //github.com/zer0Kerbal/SinPhiHeavyIndustries/releases/latest",
+    "CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/ODFCr/master/Changelog.cfg",
+    "GITHUB":
+    {
+        "USERNAME":"zer0Kerbal",
+        "REPOSITORY":"SinPhiHeavyIndustries",
+        "ALLOW_PRE_RELEASE":false
+    },
+    "VERSION":
+    {
+        "MAJOR" : 0,
+        "MINOR" : 2,
+        "PATCH" : 0,
+        "BUILD" : 0
+    },
+    "KSP_VERSION":
+    {
+        "MAJOR" : 1,
+        "MINOR" : 7,
+        "PATCH" : 3
+    },
+    "KSP_VERSION":
+    {
+        "MAJOR" : 1,
+        "MINOR" : 4,
+        "PATCH" : 5
+    },
+    "KSP_VERSION_MIN":
+    {
+        "MAJOR" : 1,
+        "MINOR" : 7,
+        "PATCH" : 1
+    },
+    "KSP_VERSION_MAX":
+    {
+        "MAJOR" : 1,
+        "MINOR" : 7,
+        "PATCH" : 9999
+    },
+    "INSTALL_LOC":
+    {
+        "NAME"      : "SinPhiHeavyIndustries",
+        "DIRECTORY" : "SinPhiHeavyIndustries"
+    }
+}
+<!-- forum.kerbalspaceprogram.com/index.php?/topic/162654-wip-30m-centrifuge-habitat-sin-phi-heavy-industries/" -->
